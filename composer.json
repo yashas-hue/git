@@ -1,0 +1,11 @@
+{
+  "name": "karmapreneur/site",
+  "description": "KARMAPRENEUR.IN PHP/MySQL app",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
